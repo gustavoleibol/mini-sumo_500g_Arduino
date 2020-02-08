@@ -28,7 +28,7 @@ Jumpers
 
 # Electrical schematic
 
-![](https://github.com/gustavoleibol/mini-sumo_500g_Arduino/blob/master/Eletric%20sumo.png)
+![](https://github.com/gustavoleibol/mini-sumo_500g_Arduino/blob/master/Image.png)
 
 # Software
 
