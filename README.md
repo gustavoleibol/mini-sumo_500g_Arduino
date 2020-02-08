@@ -15,6 +15,8 @@ Battery 7v
 
 2x motors DC 6v with current stall 2A
 
+2x Sensor Line QRE
+
 Protoboard
 
 Jumpers
